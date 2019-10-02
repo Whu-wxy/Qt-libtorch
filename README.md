@@ -1,9 +1,13 @@
 # Qt-libtorch
 Qt+libtorch+opencv，image classifier
 
+
+
 my environment:
 
 Qt13.0, linux-libtorch, opencv3.4.2
+
+
 
 Note: 
 
