@@ -3,13 +3,13 @@ Qt+libtorch+opencv，image classifier
 
 
 
-my environment:
+# my environment:
 
 Qt13.0, linux-libtorch, opencv3.4.2
 
 
 
-Note: 
+# Note: 
 
 1.Export the model file by pytorch_export.py first
 
