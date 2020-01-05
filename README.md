@@ -15,3 +15,7 @@ Qt5.12, linux-libtorch(1.3), opencv3.4.2
 1.Export the model file by pytorch_export.py first
 
 2.Modify file path in main.cpp
+
+# Result: 
+
+![result](https://github.com/Whu-wxy/Qt-libtorch/blob/master/result.jpg)
