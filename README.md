@@ -8,7 +8,7 @@ Qt+libtorch+opencv，image classifier.
 
 
 
-# my environment:
+# Environment:
 
 Qt5.12, linux-libtorch(1.3), opencv3.4.2
 
