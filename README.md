@@ -1,7 +1,11 @@
 # Qt-libtorch
-Qt+libtorch+opencv，image classifier
+
+Qt+libtorch+opencv，image classifier.
+
 1.QtTorch uses CMakelist.txt to config, you need to be familiar with CMakelist.txt.
+
 2.QtTorchPro uses qmake and pro to config, it's very easy to use. I recommend using this.
+
 
 
 # my environment:
